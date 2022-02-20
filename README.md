@@ -1,46 +1,44 @@
-# Ericson Moreira
+# Olá 👋
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src=".github/images/landing.png" alt="landing" width="200px">
-  <ul style="text-align: right; list-style: none;">
-    <li><strong>Localização​: </strong>Fortaleza - CE</li>
-    <li><strong>Fone​: </strong>(85) 99792-6510</li>
-    <li><strong>e-mail: ​</strong><a href="​moreira.ericson@gmail.com">​moreira.ericson@gmail.com</a></li>
-    <li><strong>Github​: ​</strong><a href="https://github.com/ericsonmoreira/">github.com/ericsonmoreira/</a></li>
-    <li><strong>Linkedin​: </strong><a href="https://www.linkedin.com/in/ericsonmoreira/">linkedin.com/in/ericsonmoreira/</a></li>
-  </ul>
-</div>
+## Me chamo Éricson Rogério Moreira
 
-## Sobre mim
+Atualmete trabalho como **Desenvolverdor Pleno** na [ESP - Escola de Saúde Pública do Ceará](https://www.esp.ce.gov.br/).
 
-Olá 👋, me chamo Éricson Rogério Moreira, moro em Fortaleza - CE, tenho 33 anos e atualmente voltei para o curso de Ciência da Computação na UECE - Universidade Estadual do Ceará. Busco oportunidades para trabalhar em projetos desafiadores e com colegas que estejam dispostos a compartilhar conhecimento e aprender cada vez mais. Gosto de filmes/séries, Board Games e tudo mais relacionado a cultura Nerd.
+Essas são as ferramentas que constumo utilizar no meu trabalho e em projetos pessoais
 
-## Formação
+<p>
+<img
+  src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png"
+  height="35px"
+/>
+&nbsp;
+<img
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"
+/>
+&nbsp;  
+<img
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"
+/>
+&nbsp;
+<img
+  src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png"
+  height="35px"
+/>
+&nbsp;
+<img
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
+  height="35px"
+/>
+&nbsp;
+<img
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"
+/>
+&nbsp;
+</p>
 
-[Bacharelado em Ciência da Computação - UECE](http://www.uece.br/computacao/) [2019.2 - Atual]
+Casso queria entrar em contato comigo, meu e-mail é **moreira.ericson@gmail.com**.
 
-## Experiências
+## Siga-me nas minhas redes sociais
 
-### Escola de Saúde Pública do Ceará - ESP​ [06/2020 - 10/2020]
-
-- **Cargo**:​ Bolsista
-- **Atribuições**: ​ Participar da equipe de desenvolvimento como programador ​Frontend usando ​ **React** em um projeto de registro clínico de informações hospitalares de pacientes com Covid-19 em um hospital de referência do Ceará.
-
-### Banco do Brasil ​ [11/2013 - 09/2018]
-
-- **Cargo**:​ Escriturário
-- **Atribuições**: ​ Atuar na comercialização de produtos e serviços bancários, atendimento ao público, atuar no caixa, manter contato com clientes e prestar informações aos clientes e usuários.
-
-### Fundação Cearense de Pesquisa e Cultura - FUNCAP ​ [09/2010 -09/2011]
-
-- **Cargo**:​ Estagiário
-- **Atribuições**: ​ Auxiliar no desenvolvimento de testes automatizados, no desenvolvimento de aplicações em ​ **C/C++** e ​ **Java​** . Planejar e executar planos de manutenção preventiva e acompanhamento de testes de programas e plano de testes.
-
-## Línguas
-
-- **Inglês** - Intermediário
-- **Português**​ - Natívo
-
-## Interesses
-
-_#JavaScript_ _#TypeScript_ _#HTML_ _#CSS_ _#Python_ _#Java_ _#PostgreSQL_ _#DataScience_ _#REST_ _#Scrum_ _#DevOps_ _#CleanCode_ _#React_ _#ReactNative_ _#Frontend_ _#Backend_ _#FullStack_ _#NodeJS_
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigo.goncalves.s/)](https://www.instagram.com/rodrigo.goncalves.s/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)
