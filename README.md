@@ -4,7 +4,7 @@
 
 Atualmete trabalho como **Desenvolverdor Pleno** na [ESP - Escola de Saúde Pública do Ceará](https://www.esp.ce.gov.br/).
 
-Essas são as ferramentas que constumo utilizar no meu trabalho e em projetos pessoais
+Essas são as ferramentas que constumo utilizar no meu trabalho e em projetos pessoais:
 
 <p>
 <img
