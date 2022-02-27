@@ -2,43 +2,27 @@
 
 ## Me chamo Éricson Rogério Moreira
 
-Atualmente trabalho como **Desenvolverdor Pleno** na [ESP - Escola de Saúde Pública do Ceará](https://www.esp.ce.gov.br/).
+Atualmente trabalhando como **Desenvolverdor Pleno** na [ESP - Escola de Saúde Pública do Ceará](https://www.esp.ce.gov.br/).
 
-Essas são as ferramentas que constumo utilizar no meu trabalho e em projetos pessoais:
+## 🛠️ Tecnologias e ferramentas que uso
 
-<p>
-<img
-  src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png"
-  height="35px"
-/>
-&nbsp;
-<img
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"
-/>
-&nbsp;  
-<img
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"
-/>
-&nbsp;
-<img
-  src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png"
-  height="35px"
-/>
-&nbsp;
-<img
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
-  height="35px"
-/>
-&nbsp;
-<img
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"
-/>
-&nbsp;
-</p>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="48px" />
+</div>
 
-Casso queria entrar em contato comigo, meu e-mail é **moreira.ericson@gmail.com**.
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericsonmoreira&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsonmoreira&layout=compact&theme=tokyonight"/>
+</div>
 
-## Siga-me nas minhas redes sociais
+## ❤️ Siga-me nas minhas redes sociais
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigo.goncalves.s/)](https://www.instagram.com/ericsonmoreira/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/ericsonmoreira/)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsonmoreira/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericsonmoreira/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SonoEricson)
