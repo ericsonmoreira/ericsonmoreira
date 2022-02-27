@@ -4,6 +4,11 @@
 
 Atualmente trabalhando como **Desenvolverdor Pleno** na [ESP - Escola de Saúde Pública do Ceará](https://www.esp.ce.gov.br/).
 
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericsonmoreira&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsonmoreira&layout=compact&theme=tokyonight"/>
+</div>
+
 ## 🛠️ Tecnologias e ferramentas que uso
 
 <div>
@@ -16,10 +21,7 @@ Atualmente trabalhando como **Desenvolverdor Pleno** na [ESP - Escola de Saúde 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="48px" />
 </div>
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericsonmoreira&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsonmoreira&layout=compact&theme=tokyonight"/>
-</div>
+
 
 ## ❤️ Siga-me nas minhas redes sociais
 
