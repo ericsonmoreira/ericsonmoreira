@@ -21,8 +21,6 @@ Atualmente trabalhando como **Desenvolverdor Pleno** na [ESP - Escola de Saúde 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="48px" />
 </div>
 
-
-
 ## ❤️ Siga-me nas minhas redes sociais
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsonmoreira/)
