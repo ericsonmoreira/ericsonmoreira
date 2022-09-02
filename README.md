@@ -9,7 +9,7 @@ Atualmente trabalhando como **Desenvolverdor Pleno** na [ESP - Escola de Saúde 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericsonmoreira&layout=compact&theme=tokyonight"/>
 </div>
 
-## 🛠️ Tecnologias e ferramentas que uso
+## 🛠️ Linguagens de Programação / Frameworks / Ferramentas 🛠️
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="48px" />
@@ -19,9 +19,13 @@ Atualmente trabalhando como **Desenvolverdor Pleno** na [ESP - Escola de Saúde 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48px" />
 </div>
 
-## ❤️ Siga-me nas minhas redes sociais
+## ❤️ Siga-me nas minhas redes sociais ❤️
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsonmoreira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericsonmoreira/)
