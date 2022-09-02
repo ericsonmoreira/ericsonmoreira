@@ -30,3 +30,5 @@ Atualmente trabalhando como **Desenvolverdor Pleno** na [ESP - Escola de Saúde 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsonmoreira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericsonmoreira/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SonoEricson)
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ericsonmoreira.ericsonmoreira">
