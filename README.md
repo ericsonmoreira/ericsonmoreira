@@ -1,5 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Éricson Moreira
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Éricson Moreira...
 =======================================================================================================================================
+
+... sou um desenvolvedor **Full-Stack** com mais de 3 anos de experiência. Trabalho com  **Java**, **JavaScript**, **TypeScript**, **Node JS**, **React JS**, **React Native**, **HTML**, **CSS**, **Git**, **GitHub**, **Vite**, **Material UI**, entre outras coisas. 
+
+Durante minha carreira, eu trabalhei em vários projetos desafiadores, desde desenvolvimento de **aplicativos web**, **aplicativos móveis** até **Backends**. Em todos esses projetos, tive a oportunidade de desenvolver habilidades de **resolução de problemas**, **trabalho em equipe** e **liderança**.
+
+Sou um desenvolvedor comprometido com a **qualidade do código** e sempre buscando melhorar minhas habilidades técnicas. Além disso, sou capaz lidar com **projetos complexos** e **trabalhar em equipe** para atingir os objetivos do projeto.
+
+Minha experiência em JavaScript, TypeScript, React JS e Material UI me permite criar aplicativos de **Frontend** altamente interativos. E meu conhecimento em React Native me permite criar aplicativos móveis e disponibiliza-los nas lojas de aplicativos.
+
+Acredito que minhas habilidades técnicas e experiência em desenvolvimento de software são valiosas para qualquer equipe de desenvolvimento, e estou ansioso para contribuir em projetos desafiadores e inovadores.
 
 Full Stack Developer
 --------------------
@@ -33,6 +43,7 @@ Full Stack Developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ericsonmoreira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ericsonmoreira/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@moreira.ericson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SonoEricson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
