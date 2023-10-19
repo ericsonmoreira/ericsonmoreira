@@ -1,7 +1,7 @@
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Éricson Moreira...
 =======================================================================================================================================
 
-... sou um desenvolvedor **Full-Stack** com mais de 3 anos de experiência. Trabalho com  **Java**, **JavaScript**, **TypeScript**, **Node JS**, **React JS**, **React Native**, **HTML**, **CSS**, **Git**, **GitHub**, **Vite**, **Material UI**, entre outras coisas. 
+... sou um desenvolvedor **Full-Stack** com mais de 4 anos de experiência. Trabalho com  **Java**, **JavaScript**, **TypeScript**, **Node JS**, **React JS**, **React Native**, **HTML**, **CSS**, **Git**, **GitHub**, **Vite**, **Material UI**, entre outras coisas. 
 
 Durante minha carreira, eu trabalhei em vários projetos desafiadores, desde desenvolvimento de **aplicativos web**, **aplicativos móveis** até **Backends**. Em todos esses projetos, tive a oportunidade de desenvolver habilidades de **resolução de problemas**, **trabalho em equipe** e **liderança**.
 
